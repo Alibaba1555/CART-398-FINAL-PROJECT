@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/depth/features</oscMessage>
+  <numInputs>6</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>features-1</string>
+    <string>features-2</string>
+    <string>features-3</string>
+    <string>features-4</string>
+    <string>features-5</string>
+    <string>features-6</string>
+  </inputNames>
+</OSCInputGroup>
